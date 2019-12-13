@@ -1,0 +1,11 @@
+{
+  "name": "webrtc-audiochat",
+  "version": "0.1.0",
+  "description": "webrtc-audiochat",
+  "main": "\t",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "author",
+  "license": "BSD-2-Clause"
+}
